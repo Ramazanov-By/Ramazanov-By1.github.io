@@ -1,0 +1,40 @@
+body {
+    background: #00aeef;
+    color: #fff;
+    font-family: Arial;
+}
+
+img {
+    width: 600px;
+    border-radius: 20px;
+}
+
+p {
+    width: 600px;
+    font-size: 18px;
+}
+
+a {
+    background: #ff3f3f;
+    padding: 8px 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.menu-link {
+    background: none;
+    transition: 1s;
+    border-radius: 0;
+}
+
+.menu-link:hover {
+    background: red;
+}
+
+.conteiner {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
